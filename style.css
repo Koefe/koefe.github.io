@@ -1,0 +1,16 @@
+h1 {
+    color: skyblue;
+    text-align: center;
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    margin: 10px;
+    color: darkblue;
+    text-align: center;
+}
+
+body {
+    background-color: lightgray;
+}
